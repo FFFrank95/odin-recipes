@@ -1,0 +1,47 @@
+* {
+    font-family: "Times New Roman", serif;
+    background-color: rgb(245, 228, 228);
+    color:black;
+}
+
+img {
+    height: auto;
+    width: 800px; 
+}
+
+img.lasagna {
+    width: 400px;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+h2,
+h3 {
+    font-size: 34px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+ol li {
+    margin-bottom: 0.5cm;
+}
+
+ul li {
+    line-height: normal;
+    margin-bottom: 0.2cm;
+}
+
+li p {
+    margin-bottom: -10px;
+}
+
+
